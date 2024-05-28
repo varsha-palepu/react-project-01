@@ -3,7 +3,7 @@
   "name": "namaste-react",
   "version": "1.0.0",
   "description": "",
-  "main":"App.js",
+
   "scripts": {
     "start": "parcel src/index.html",
     "predeploy": "npm run build",
